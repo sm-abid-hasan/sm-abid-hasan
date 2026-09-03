@@ -87,7 +87,6 @@ Passionate about Web Development and continuously learning modern technologies.
 ## Github Contributions:
 
 <div align="center">
-  <h3>GitHub Contributions:</h3>
   <a href="https://github.com/sm-abid-hasan">
     <img src="https://ghchart.rshah.org/40c463/sm-abid-hasan" alt="S M Abid Hasan's GitHub Contributions" />
   </a>
