@@ -1,24 +1,28 @@
 <p align="center">
   <img src="./Github banner.png" alt="S.M. Abid Hasan GitHub Banner" width="100%">
 </p>
+<br>
 
-<h1 align="center">Hi 👋, I'm S.M. Abid Hasan</h1>
 
-<h3 align="center">Aspiring Full Stack Web Developer</h3>
+<h3 align="center">Hi 👋, I'm S.M. Abid Hasan</h3>
 
-<p align="center">
-Passionate about Web Development and continuously learning modern technologies.
-</p>
 
----
+<div align="center">
+  <a href="https://github.com/sm-abid-hasan">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Aspiring+Full+Stack+Web+Developer;JavaScript+Enthusiast;Interested+in+Machine+Learning" alt="Typing Animation" />
+  </a>
+</div>
+<br>
+<br>
 
-## 🚀 About Me
 
-- 👋 Hi, I'm **S.M. Abid Hasan**
+
+- 👋 Hi, I'm <a href="https://github.com/sm-abid-hasan">@sm-abid-hasan</a>
 - 🌱 Currently learning **HTML, CSS, JavaScript, TypeScript, React, NextJs & Tailwind CSS**
 - 📚 Dedicated to learning web development daily
 - 🎯 Goal: Become a professional Full Stack Web Developer
-- 📫 Reach me at: **abid.sm.hasan@gmail.com**
+- 📫 Reach me at <a href="mailto:abid.sm.hasan@gmail.com">Email</a> | <a href="https://www.linkedin.com/in/sm-abid-hasan">LinkedIn</a>
+
 
 ## 🌐 Connect With Me
 
