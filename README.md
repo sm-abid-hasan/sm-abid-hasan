@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0F2027,50:203A43,100:2C5364&text=S.M.%20Abid%20Hasan&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=Aspiring%20Full%20Stack%20Web%20Developer&descAlignY=65&descSize=20" />
+  <img src="./Github banner.png" alt="S.M. Abid Hasan GitHub Banner" width="100%">
 </p>
 
 <h1 align="center">Hi 👋, I'm S.M. Abid Hasan</h1>
