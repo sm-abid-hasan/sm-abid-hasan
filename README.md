@@ -15,15 +15,10 @@ Passionate about Web Development and continuously learning modern technologies.
 ## 🚀 About Me
 
 - 👋 Hi, I'm **S.M. Abid Hasan**
-- 🎓 BSc in CSE from AIUB
-- 🌱 Currently learning **HTML, CSS, JavaScript, TypeScript, React & Tailwind CSS**
-- 💻 Building projects every day to become a professional Full Stack Developer
-- 📚 Dedicated to learning web development 6–8 hours daily
+- 🌱 Currently learning **HTML, CSS, JavaScript, TypeScript, React, NextJs & Tailwind CSS**
+- 📚 Dedicated to learning web development daily
 - 🎯 Goal: Become a professional Full Stack Web Developer
-- 📫 Reach me at: **your-email@example.com**
-- ⚡ Fun Fact: I love solving coding problems and building web applications
-
----
+- 📫 Reach me at: **abid.sm.hasan@gmail.com**
 
 ## 🌐 Connect With Me
 
@@ -35,39 +30,71 @@ Passionate about Web Development and continuously learning modern technologies.
 <a href="https://linkedin.com/in/sm-abid-hasan" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
+
+<a href="mailto:abid.sm.hasan@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
+</a>
 </p>
 
----
 
 # 💻 Technology Stack
 
-## Languages
+## Languages:
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,python" />
 </p>
 
-## Frontend
+## CSS Frameworks & Libraries:
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,tailwind" />
+<img src="https://skillicons.dev/icons?i=tailwind,bootstrap" />
 </p>
 
-## Currently Learning
+## JavaScript Frameworks & Libraries:
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+<img src="https://skillicons.dev/icons?i=nodejs,nextjs,react" />
 </p>
 
-## Tools
+## Database & Model:
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,npm" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+</p>
+
+## Deployment Platform:
+<p>
+<img src="https://skillicons.dev/icons?i=netlify,vercel" />
+</p>
+
+
+## Design & Graphics:
+<p>
+<img src="https://skillicons.dev/icons?i=figma,ps," />
+</p>
+
+
+## Tools & Technologies:
+<p>
+<img src="https://skillicons.dev/icons?i=windows,ubuntu,notion,git,github,gmail,vscode,postman" />
 </p>
 
 ---
 
-# 📊 GitHub Statistics
+
+# 📈 GitHub Statistics & Analysis
+## Github Contributions:
+
+<div align="center">
+  <h3>GitHub Contributions:</h3>
+  <a href="https://github.com/sm-abid-hasan">
+    <img src="https://ghchart.rshah.org/40c463/sm-abid-hasan" alt="S M Abid Hasan's GitHub Contributions" />
+  </a>
+</div>
+---
+
+## 📊 Repository Stats & Streak:
 
 <p align="center">
 
@@ -76,50 +103,6 @@ Passionate about Web Development and continuously learning modern technologies.
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sm-abid-hasan&theme=tokyonight" />
 
 </p>
-
----
-
-# 📈 GitHub Activity Graph
-
-[![Abid's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sm-abid-hasan&theme=react-dark)](https://github.com/sm-abid-hasan)
-
----
-
-# 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=sm-abid-hasan&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
----
-
-# 📌 Current Focus
-
-```javascript
-const abid = {
-  learning: [
-    "HTML",
-    "CSS",
-    "JavaScript",
-    "TypeScript",
-    "React",
-    "Tailwind CSS"
-  ],
-  
-  futureGoals: [
-    "Node.js",
-    "Express.js",
-    "MongoDB",
-    "Full Stack Development"
-  ],
-
-  status: "Learning Every Day 🚀"
-};
-```
-
----
-
-# ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
 
